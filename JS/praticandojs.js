@@ -1,2 +1,1 @@
-console.log("Olá, Mundo!"); teste
-]
+console.log("Olá, Mundo!");
