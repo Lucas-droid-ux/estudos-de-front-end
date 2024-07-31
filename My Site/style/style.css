@@ -2,3 +2,38 @@
     margin: 0;
     padding: 0;    
 }
+
+:root {
+    --cor-de-fundo: #262334;
+    --cor-cabecalho: #FFFFFF;
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+.container {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    left: 350px;
+    top: 40px;
+    height: 10vh;
+}
+
+.menu-superior {
+    font-family: 'Inter', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    position: relative;
+    left: 600px;
+    top: 20px;
+    list-style: none;
+    display: flex;
+    gap: 50px;
+    text-align: center;
+}
+
+.principal {
+    background-color: var(--cor-cabecalho);
+}
