@@ -21,9 +21,10 @@ h1 {
     text-decoration: underline;
 }
 
-li {
+a {
     color: #FFFFFF;
     font-family: Arial, Helvetica, sans-serif;
     text-align: left;
     font-size: 28px;
+    text-decoration: none;
 }
