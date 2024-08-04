@@ -28,3 +28,9 @@ a {
     font-size: 28px;
     text-decoration: none;
 }
+
+.container {
+    background-color: #996b6b;
+    height: 50px;
+    border: 5px solid #141441;
+}
